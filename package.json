@@ -1,0 +1,15 @@
+{
+  "name": "anti_depressants",
+  "version": "1.0.0",
+  "description": "please have fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thekiloohm",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "eslint": "^5.6.1"
+  }
+}
