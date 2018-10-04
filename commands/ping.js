@@ -7,6 +7,6 @@ module.exports = {
     //cooldown: 5,
     aliases: ['test', 'beep'],
     execute(message) {
-        message.channel.send('Pongpings.');
+        message.channel.send('Pong.');
     },
 };
